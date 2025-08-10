@@ -22,7 +22,7 @@ A powerful AI-powered legal document analysis tool that helps users understand c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-legal-assistant.git
+git clone https://github.com/Jagadeesh809/ai-legal-assistant.git
 cd ai-legal-assistant
 ```
 
@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For questions or support, please open an issue on GitHub or contact [your-email@example.com].
+For questions or support, please open an issue on GitHub or contact [jaga80929@gmail.com].
 
 ---
 
