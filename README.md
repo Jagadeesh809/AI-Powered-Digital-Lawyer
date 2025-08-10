@@ -63,10 +63,15 @@ streamlit run app.py
 
 ```
 ai-legal-assistant/
-├── simple_app.py          # Main Streamlit application
+├── app.py                 # Main Streamlit application (all-in-one)
 ├── requirements.txt       # Python dependencies
 ├── README.md             # Project documentation
-└── sample_contracts/     # Example legal documents
+├── .gitignore            # Git ignore rules
+├── document_processor.py  # Document text extraction (legacy)
+├── legal_analyzer.py     # NLP and entity extraction (legacy)
+├── risk_detector.py      # Risk analysis and detection (legacy)
+├── llm_summarizer.py     # Document summarization (legacy)
+└── rag_system.py         # Retrieval-augmented generation (legacy)
 ```
 
 ## 🎯 Key Components
@@ -122,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For questions or support, please open an issue on GitHub or contact [jaga80929@gmail.com].
+For questions or support, please open an issue on GitHub or contact [your-email@example.com].
 
 ---
 
