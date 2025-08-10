@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 3. Run the application:
 ```bash
-streamlit run simple_app.py
+streamlit run app.py
 ```
 
 4. Open your browser and go to `http://localhost:8501`
@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For questions or support, please open an issue on GitHub or contact [your-email@example.com].
+For questions or support, please open an issue on GitHub or contact [jaga80929@gmail.com].
 
 ---
 
